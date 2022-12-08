@@ -1,5 +1,7 @@
 # Drupal Content Upload and Orders
 ## Requirements
+Platform: Drupal 9 and Commerce plugin
+
 ### Modules/Blocks
 - The requirements below are based on content upload functionality of sites like the following:
   - https://app.rapiddirect.com
@@ -31,3 +33,6 @@
 ## Deliverables
 - Code for modules/blocks
 - Instructions for installation and setup (database, website)
+
+## Notes
+ This is not setup and maintenance of a new Drupal site. The deliverables completed should give the functionality provided, and be able to be added to another existing site (by using Drupal's customizability correctly). Visual design expectations are minimal (but not zero).
